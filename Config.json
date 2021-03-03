@@ -1,0 +1,19 @@
+{
+    "write_to_local_csv": false,
+    "write_to_google_docs": true,
+    "write_to_microsoft": false,
+    "debug_mode": false,
+    "write_to_JSON": false,
+    "enable_serial": false,
+    "write_to_JSON_at_termination": false,
+    "window_height": 800,
+    "window_width": 480,
+    "serial_port": "/dev/serial0",
+    "employee_timeout": 60,
+    "enable_music": true,
+    "json_write_frequency": 5,
+    "Number_of_instruments": "50",
+    "music_volume": 0.4,
+    "mixer_reinit_time": 3600,
+    "easter_egg": "print()"
+}

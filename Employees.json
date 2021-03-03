@@ -1,0 +1,17 @@
+{
+    "01r8": {"name": "Darren", "music": "stop", "InSound": "none", "OutSound": "none"},
+    "28i3": {"name": "Alex", "music": "/Audio/Muy Tranquilo.ogg", "InSound": "none", "OutSound": "none"},
+    "eaw7": {"name": "Grady", "music": "/Audio/Working Man.ogg", "InSound": "none", "OutSound": "none"},
+    "j21k": {"name": "Mario", "music": "/Audio/SUPER MARIO.ogg", "InSound": "none", "OutSound": "none"},
+    "y5wh": {"name": "Marco", "music": "/Audio/EUROPA.ogg", "InSound": "none", "OutSound": "none"},
+    "7o2v": {"name": "Tom", "music": "/Audio/Ode to Joy.ogg", "InSound": "none", "OutSound": "none"},
+    "abkc": {"name": "Aaron", "music": "/Audio/For The Love of Money.ogg", "InSound": "none", "OutSound": "none"},
+    "ed90": {"name": "Mayra", "music": "/Audio/Pink Panther.ogg", "InSound": "none", "OutSound": "none"},
+    "nd37": {"name": "Cathy", "music": "/Audio/Mission Impossible.ogg", "InSound": "none", "OutSound": "none"},
+    "y7ro": {"name": "Cat", "music": "/Audio/Girls Fun.ogg", "InSound": "none", "OutSound": "none"},
+    "8pia": {"name": "Sloan", "music": "/Audio/How Soon Is Now.ogg", "InSound": "none", "OutSound": "none"},
+    "hb95": {"name": "Not Listed", "music": "/Audio/", "InSound": "none", "OutSound": "none"},
+    "cpua": {"name": "Luke", "music": "/Audio/Pigstep.ogg", "InSound": "none", "OutSound": "none"},
+    "xmu2": {"name": "End Session", "music": "stop", "InSound": "none", "OutSound": "none"},
+    "zver": {"name": "Shutdown", "music": "stop", "InSound": "none", "OutSound": "none"}
+}

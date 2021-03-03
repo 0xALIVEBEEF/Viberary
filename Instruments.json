@@ -1,0 +1,499 @@
+{
+    "0jon": {
+        "place": "on shelf ?",
+        "name": "Zonic Book - 24 Channels",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "4t0d": {
+        "place": "on shelf ?",
+        "name": "10 channel, 24-Bit, 105.4 ks/S Dynamic Signal Analyzer 1",
+        "nickname": "10 Channel 1",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "4vsi": {
+        "place": "on shelf ?",
+        "name": "10 channel, 24-Bit, 105.4 ks/S Dynamic Signal Analyzer 2",
+        "nickname": "10 Channel 2",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "6irq": {
+        "place": "on shelf ?",
+        "name": "20 channel, 24-Bit, 105.4 ks/S Dynamic Signal Analyzer 1",
+        "nickname": "20 Channel 1",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "9uhm": {
+        "place": "on shelf ?",
+        "name": "20 channel, 24-Bit, 105.4 ks/S Dynamic Signal Analyzer 2",
+        "nickname": "20 Channel 2",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "12g3": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 1",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 1",
+        "time": "?"
+    },
+    "28mi": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 2",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 2",
+        "time": "?"
+    },
+    "76xo": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 3",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 3",
+        "time": "?"
+    },
+    "78e1": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 4",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 4",
+        "time": "?"
+    },
+    "90vn": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 5",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 5",
+        "time": "?"
+    },
+    "510p": {
+        "place": "?",
+        "name": "VB7 Complete Kit Analyzer 6",
+        "status": "Equipment Room",
+        "nickname": "VB7 Kit 6",
+        "time": "?"
+    },
+    "avdo": {
+        "place": "?",
+        "name": "VB5 Complete Kit Analyzer 7",
+        "status": "Equipment Room",
+        "nickname": "VB5 Kit 7",
+        "time": "?"
+    },
+    "bdr6": {
+        "place": "?",
+        "name": "Easy-Laser D90 Belt Alignment Tool 1",
+        "nickname": "Easy-Laser D90 1",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "bm9z": {
+        "place": "?",
+        "name": "Easy-Laser D90 Belt Alignment Tool 2",
+        "nickname": "Easy-Laser D90 2",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "d9hp": {
+        "place": "?",
+        "name": "Easy-Laser D90 Belt Alignment Tool 3",
+        "nickname": "Easy-Laser D90 3",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "d574": {
+        "place": "?",
+        "name": "Easy-Laser D90 Belt Alignment Tool 4",
+        "nickname": "Easy-Laser D90 4",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "dqmw": {
+        "place": "?",
+        "name": "Easy-Laser D90 Belt Alignment Tool 5",
+        "nickname": "Easy-Laser D90 5",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "f6tr": {
+        "place": "?",
+        "name": "BeltHog Sheave Alignment Instrument",
+        "nickname": "BeltHog Sheave Alignment",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "f20d": {
+        "place": "on shelf 2D",
+        "name": "Easy-Laser - Next Generation Wireless Shaft Alignment 1",
+        "nickname": "Easy-Laser Wireless 1",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "ghuo": {
+        "place": "on shelf 2D",
+        "name": "Easy-Laser - Next Generation Wireless Shaft Alignment 2",
+        "nickname": "Easy-Laser Wireless 2",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "h8ca": {
+        "place": "on shelf 2D",
+        "name": "Easy-Laser - Next Generation Wireless Shaft Alignment 3",
+        "nickname": "Easy-Laser Wireless 3",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "hb9r": {
+        "place": "on shelf 2C",
+        "name": "Fluke Ti32 IR Camera",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "jb3h": {
+        "place": "?",
+        "name": "CESVA Int-Averaging Sound Level Meter(Cert #04/00053-Dicesa Lab)",
+        "nickname": "CESVA Sound Level Meter",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "jx68": {
+        "place": "on shelf 2B?",
+        "name": "Larson Sound Level Meter",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "m1p2": {
+        "place": "on shelf 2B",
+        "name": "UE Ultrasonic Monitor",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "motd": {
+        "place": "?",
+        "name": "NDT Systems Thickness Meter",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "mt1d": {
+        "place": "?",
+        "name": "SLM Soundexpert LXT Class 1 FF MIC",
+        "nickname": "SLM Soundexpert LXT MIC",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "nf5k": {
+        "place": "on shelf 2C",
+        "name": "Digital Ultrasonic USB Microphone with Lightning to USB Camera Adapter",
+        "nickname": "Ultrasonic USB MIC",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "qr4i": {
+        "place": "on shelf 5B",
+        "name": "Portable Vibration Calibrator 1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "rwmu": {
+        "place": "on shelf 5B",
+        "name": "Handheld Vibration Calibrator 2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "rzo8": {
+        "place": "in charging station",
+        "name": "EnCAM HH #1",
+        "status": "Equipment Room",
+        "nickname": "same",
+        "time": "?"
+    },
+    "sxtd": {
+        "place": "in charging station",
+        "name": "EnCAM HH #2",
+        "status": "Equipment Room",
+        "nickname": "same",
+        "time": "?"
+    },
+    "trsu": {
+        "place": "?",
+        "name": "Oil Kit #1",
+        "status": "Equipment Room",
+        "nickname": "same",
+        "time": "?"
+    },
+    "u29r": {
+        "place": "?",
+        "name": "Oil Kit #2",
+        "status": "Equipment Room",
+        "nickname": "same",
+        "time": "?"
+    },
+    "vskl": {
+        "place": "?",
+        "name": "AEGIS OSC - Shaft Voltage Testing 1",
+        "nickname": "AEGIS Oscilloscope 1",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "w3qy": {
+        "place": "?",
+        "name": "AEGIS OSC - Shaft Voltage Testing 2",
+        "nickname": "AEGIS Oscilloscope 2",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "zaq2": {
+        "place": "?",
+        "name": "AEGIS OSC - Shaft Voltage Testing 3",
+        "nickname": "AEGIS Oscilloscope 3",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "qmxr": {
+        "place": "on shelf 3E",
+        "name": "5 in. Shim Set #1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "1oum": {
+        "place": "on shelf 3E",
+        "name": "Aloma BB Shim Set",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "wvab": {
+        "place": "on shelf 3E",
+        "name": "5 in. Shim Set #2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "6to4": {
+        "place": "on shelf 3E",
+        "name": "3 in. Shim Set #1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "1eyn": {
+        "place": "on shelf 3E",
+        "name": "2 in. Shim Set #1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "q0zr": {
+        "place": "on shelf 3E",
+        "name": "4 in. Shim Set #4",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "lphx": {
+        "place": "on shelf 3E",
+        "name": "4 in. Shim Set #3",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "2vur": {
+        "place": "on shelf 3E",
+        "name": "2 in. Shim Set #2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "j0us": {
+        "place": "on shelf 3E",
+        "name": "4 in. Shim Set #1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "8q2c": {
+        "place": "on shelf 3E",
+        "name": "3 in. Shim Set #2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "lifq": {
+        "place": "on shelf 3E",
+        "name": "4 in. Shim Set #2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "yh3n": {
+        "place": "on shelf 3E",
+        "name": "5 in. Shim Set #3",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "9nim": {
+        "place": "on shelf 3E",
+        "name": "3 in. Shim Set #3",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "lmpj": {
+        "place": "on shelf 1C",
+        "name": "10 channel cables 1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "adp9": {
+        "place": "on shelf 1C",
+        "name": "10 channel cables 2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "l2ay": {
+        "place": "on shelf 1C",
+        "name": "20 channel cables 1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "o428": {
+        "place": "on shelf 1C",
+        "name": "20 channel cables 2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "x8fg": {
+        "place": "on shelf 2C",
+        "name": "Fluke VT02",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "cdw4": {
+        "place": "on shelf ?",
+        "name": "Generic 1",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "ocn6": {
+        "place": "on shelf ?",
+        "name": "Generic 2",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "g169": {
+        "place": "on shelf ?",
+        "name": "Generic 3",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "j957": {
+        "place": "on shelf ?",
+        "name": "Generic 4",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "jfuc": {
+        "place": "on shelf ?",
+        "name": "Generic 5",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "pngj": {
+        "place": "on shelf ?",
+        "name": "Generic 6",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "uj7a": {
+        "place": "on shelf ?",
+        "name": "Generic 7",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "gvxr": {
+        "place": "on shelf ?",
+        "name": "Generic 8",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "oe6u": {
+        "place": "on shelf ?",
+        "name": "Generic 9",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "tcn9": {
+        "place": "on shelf ?",
+        "name": "Generic 10",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "4twk": {
+        "place": "on shelf ?",
+        "name": "Generic 11",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "y70f": {
+        "place": "on shelf ?",
+        "name": "Generic 12",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "7qo3": {
+        "place": "on shelf ?",
+        "name": "Generic 13",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "9ovk": {
+        "place": "on shelf ?",
+        "name": "Generic 14",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "3ai8": {
+        "place": "on shelf ?",
+        "name": "Generic 15",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    },
+    "awqs": {
+        "place": "on shelf ?",
+        "name": "",
+        "nickname": "same",
+        "status": "Equipment Room",
+        "time": "?"
+    }
+}
