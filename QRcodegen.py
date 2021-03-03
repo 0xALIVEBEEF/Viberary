@@ -17,7 +17,7 @@ if autowrite:
 
     scopes = ['https://spreadsheets.google.com/feeds',
               'https://www.googleapis.com/auth/drive']
-    VIJSON = 'viberary-805dbab694b3.json'
+    VIJSON = '' #name of google sheets secret json for "instruments" sheet
     while True:
         try:
             creds = Credentials.from_service_account_file(VIJSON, scopes=scopes)
@@ -47,7 +47,7 @@ for i in range(int(numcodes)):
         print(", \r\n "+'"'+randomstring+'"'+': {"place": "on shelf ", "name":"", "nickname":"", "status": "Equipment Room", "time": "?"}', end = '')
         values = [["", "Equipment Room", "?"]]
         DATA_LOCATION = "A1"
-        VISSID = '1nGmjHkc5-y5PVtcyrXiOHIOZeanaAD3VHR_UJmGrhHM'
+        VISSID = ''
         #VIsheet.values().append(spreadsheetId=VISSID, valueInputOption='RAW', range=DATA_LOCATION, body={'values': values}).execute()
         with open("Instruments.json", 'w') as file:
             InstrumentDict[randomstring] = {"place": "on shelf ?", "name":"", "nickname":"same", "status": "Equipment Room", "time": "?"}
