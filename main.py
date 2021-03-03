@@ -116,12 +116,12 @@ def WriteCSV(Val1, Val2, Val3, Val4):
 def WriteGoogle(Val1, Val2, Val3, Val4):
     values = [[Val1, Val2, Val3, Val4]]
     DATA_LOCATION = "A1"
-    VLSSID = '1epj2eGLxk92pNawmyD4kpWUkNvI2tkrkyiZ2EQ5FtVI'
+    VLSSID = ''
     VLsheet.values().append(spreadsheetId=VLSSID, valueInputOption='RAW', range=DATA_LOCATION, body={'values': values}).execute()
     return
 
 def WriteGoogleStatus():
-    result = VIsheet.values().get(spreadsheetId='1nGmjHkc5-y5PVtcyrXiOHIOZeanaAD3VHR_UJmGrhHM', range="A2:C" + str(int(ConfigData["Number_of_instruments"])+1)).execute()
+    result = VIsheet.values().get(spreadsheetId='', range="A2:C" + str(int(ConfigData["Number_of_instruments"])+1)).execute()
     values = result.get('values', [])
     NameLookup = {}
     keys = list(InstrumentDict.keys())
@@ -136,11 +136,11 @@ def WriteGoogleStatus():
         Modrow[1] = LookedUp[0]
         Modrow[2] = LookedUp[1]
         Modvalues.append(Modrow)
-    VISSID = '1nGmjHkc5-y5PVtcyrXiOHIOZeanaAD3VHR_UJmGrhHM'
+    VISSID = ''
     VIsheet.values().update(spreadsheetId=VISSID, range='A2', valueInputOption='RAW', body={'values':Modvalues}).execute()
     return
 def GetGoogleData():
-    result = VIsheet.values().get(spreadsheetId='1nGmjHkc5-y5PVtcyrXiOHIOZeanaAD3VHR_UJmGrhHM', range="A2:C" + str(int(ConfigData["Number_of_instruments"])+1)).execute()
+    result = VIsheet.values().get(spreadsheetId='', range="A2:C" + str(int(ConfigData["Number_of_instruments"])+1)).execute()
     values = result.get('values', [])
     keys = list(InstrumentDict.keys())
     ReverseDict={}
@@ -299,8 +299,8 @@ if ConfigData["write_to_google_docs"]:
     from googleapiclient.discovery import build
     import os
 
-    VLJSONfull = '/media/pi/VIBERARY/Viberary/viberary-339a994dca7c.json'
-    VLJSONsmall = 'viberary-339a994dca7c.json'
+    VLJSONfull = '' #full path of google sheets secret json for "instruments" sheet
+    VLJSONsmall = '' #name of google sheets secret json for "instruments" sheet
 
     scopes = ['https://spreadsheets.google.com/feeds',
               'https://www.googleapis.com/auth/drive']
@@ -319,8 +319,8 @@ if ConfigData["write_to_google_docs"]:
             break
     VLsheet = build('sheets', 'v4', credentials=creds).spreadsheets()
 
-    VIJSONfull = '/media/pi/VIBERARY/Viberary/viberary-805dbab694b3.json'
-    VIJSONsmall = 'viberary-805dbab694b3.json'
+    VIJSONfull = '' #full path of google sheets secret json for "instruments" sheet
+    VIJSONsmall = '' #name of google sheets secret json for "instruments" sheet
 
 
     notsystemd = os.path.exists(VIJSONsmall)
